@@ -1,0 +1,58 @@
+Google IO 2016: what can we learn from it
+(from a web dev perspective)
+
+
+
+1- Por qué la charla?
+    - Google I/O, nuevas tecnologías, empresa que dicta en gran parte hacia donde se mueve el WD, excelentes desarrolladores, recursos, etc
+    
+    
+    -fotos
+    -cantidad de charlas
+    -diferentes temas:
+        Analytics
+        Ads
+        Android
+        Cloud
+        Design
+        Firebase
+        Games
+        Maps/Location
+        Mobile web
+        Play
+        Search
+        Tv/Living Room
+        VR
+        Search/Machine Learning
+        
+    -recordar que yo fui a las de WD mas que todo.
+
+Ir a la conferencia tenia 2 objetivos:
+
+-descubrir/aprender
+-traer
+
+
+tons:
+descubrir/aprender:
+-tecnologias:
+    -firebase, web blueetooth, android instant apps, polymer, web components, offline-first, physical web (both ways).
+
+-organizacion:
+    -Accesibilidad, disponibilidad de la gente, actividades extra-charlas, fiestas, diferentes ambientes, 
+
+
+traer
+-tecnologia
+-organizacion
+
+
+
+
+-technologías interesantes que se vieron ahí
+-Lecciones aprendidas
+
+Web bluetooth possibilities:
+beacons
+devices
+location

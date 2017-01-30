@@ -1,0 +1,64 @@
+.firebase-image {
+	height: auto !important;
+	width: 80% !important;
+}
+
+.vertical-image {
+	height: auto !important;
+    width: 46% !important;
+}
+	.slide-bg-img {
+    opacity: 0.4;
+    width: 100%;
+}
+
+.slide-bg-text {
+    position: absolute;
+    width: 100%;
+    top: 128px;
+}
+
+.io-logo {
+    border: none !important;
+    background: none !important;
+}
+
+.buttons {
+    list-style: none !important;
+    margin: 0 !important;
+}
+
+.buttons li {
+    background: #26C6DA;
+    margin: 5px;
+    border-radius: 5px;
+    text-align: center;
+    padding: 10px;
+}
+
+.buttons .grow.visible {
+    border: 1px solid #222222;
+    color: white !important;
+    -webkit-transform: scale(4) translateY(28px) !important;
+    transform: scale(4) translateY(28px) !important;
+}
+
+.buttons .fragment {
+    transition: all 1.2s ease !important;
+}
+
+@media screen and (min-height: 760px){
+	.reveal .slides {
+		width: 1300px !important;
+		height: 768px !important;
+	}
+	
+	.firebase-image {
+		height: auto !important;
+		width: 67% !important;
+	}
+	.wide-image {
+		height: auto !important;
+		width: 95% !important;
+	}
+}
